@@ -7,6 +7,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-moreira-a7388323a/)
 
+#### Stats
+
+
 ![Aaron GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-GMM&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
