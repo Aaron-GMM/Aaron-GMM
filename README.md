@@ -1,5 +1,5 @@
-### Olá, Eu sou o Aaron Gibran 👋
-#### Formas de Contato & Redes Social
+# Olá, Eu sou o Aaron Gibran 👋
+## Formas de Contato & Redes Social
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://aarongibran13@gmail.com)
 
@@ -7,7 +7,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-moreira-a7388323a/)
 
-#### Stats
+### Status
 
 
 ![Aaron GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-GMM&show_icons=true&theme=radical)
@@ -24,4 +24,4 @@
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+## Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
