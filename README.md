@@ -24,4 +24,15 @@
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
 
+
+<hr>
+<h3>🛠 Tech Stack</h3>
+- 💻 &nbsp; JavaScript | Java | Nodejs<br>
+- 🌐 &nbsp; HTML | CSS | JavaScript | Angular<br>
+- 🛢 &nbsp; MySQL | PostgressSQL<br>
+- 🔧 &nbsp; Visual Studio code | NetBeans
+<br>
+<hr>
+
+
 ## Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
