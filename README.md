@@ -12,6 +12,11 @@
 
 ![Aaron GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-GMM&show_icons=true&theme=radical)
 
+<a href="https://github.com/gustavohenriquefs/gustavohenriquefs">
+  <img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gustavohenriquefs&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
+</a>
+  <br><br><br>
+<hr>
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -25,14 +30,6 @@
 </div><br/>
 
 
-<hr>
-<h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; JavaScript | Java | Nodejs<br>
-- 🌐 &nbsp; HTML | CSS | JavaScript | Angular<br>
-- 🛢 &nbsp; MySQL | PostgressSQL<br>
-- 🔧 &nbsp; Visual Studio code | NetBeans
-<br>
-<hr>
 
 
 ## Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
