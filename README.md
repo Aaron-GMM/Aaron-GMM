@@ -12,7 +12,7 @@
 
 ![Aaron GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-GMM&show_icons=true&theme=radical)
 
-![Aaron GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-GMM&theme=blue-green)
+![Aaron GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-GMM&theme=radical)
 
 
 ## Tecnologias que eu uso no meu dia
