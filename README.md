@@ -7,6 +7,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-moreira-a7388323a/)
 
+## Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
 ### Status
 
 
@@ -47,5 +49,3 @@
   <img align="center" alt="Visual_Studio_code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
-
-## Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
