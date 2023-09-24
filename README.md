@@ -9,7 +9,9 @@
 
 
 ![Aaron GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-GMM&show_icons=true&theme=radical)
-
+<a href="">
+  <img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aaron-GMM&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
+</a>
 ![Aaron GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-GMM&theme=radical)
 
 
