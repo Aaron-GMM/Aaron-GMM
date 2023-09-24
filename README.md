@@ -8,11 +8,10 @@
 ### Status
 
 
-![Aaron GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-GMM&show_icons=true&theme=radical)
+![Aaron GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-GMM&show_icons=true&theme=radical)<br>
+<img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aaron-GMM&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
 
-![Aaron Most used languages]<img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aaron-GMM&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
 
-![Aaron GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-GMM&theme=radical)
 
 
 ## Tecnologias que eu uso no meu dia
