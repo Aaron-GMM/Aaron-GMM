@@ -3,7 +3,6 @@
 ### Status
 ![Aaron GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-GMM&show_icons=true&theme=tokyonight)
 <img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aaron-GMM&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
-
 ## Tecnologias que eu uso no meu dia
 
 ### Front-end
@@ -38,6 +37,7 @@
 #### Outras Ferramentas 
 <div style="display: inline_block"> 
  <img align="center" alt="Visual_Studio_code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ <img align="center" alt="Netlify"  src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  <img align="center" alt="Netlify"  src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
  <img align="center" alt="Vercel"  src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
