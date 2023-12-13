@@ -1,7 +1,5 @@
 # Olá, Me Chamo  Aaron Gibran 👋
 ### Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-## Formas de Contato 
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://aarongibran13@gmail.com)
 ### Status
 ![Aaron GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-GMM&show_icons=true&theme=tokyonight)
 <img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aaron-GMM&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
