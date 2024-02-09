@@ -45,6 +45,3 @@
  <img align="center" alt="Pycharm" src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </div><br/>
 
-#### Iniciando os Estudos em breve
-<div style="display: inline_block"> 
-</div><br/>
