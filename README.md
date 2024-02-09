@@ -1,5 +1,5 @@
 # Olá, Me Chamo  Aaron Gibran 👋
-## About-me
+## About-me🧑🏾‍💻
 ##### Estudante de Sistema de Informação na Universidade Federal do Ceará.
 ##### Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 ## Status
