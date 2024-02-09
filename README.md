@@ -4,7 +4,7 @@
  Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 ## Status ✨
 ![Aaron GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-GMM&show_icons=true&theme=tokyonight)
-<img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
+<img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aaron-GMM&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
 ## Tech 🛠
 
 ## Front-end🌐
