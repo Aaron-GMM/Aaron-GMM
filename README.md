@@ -1,6 +1,6 @@
 # Olá, Me Chamo  Aaron Gibran 👋
 ## About-me🧑🏾‍💻
- Estudante de Sistema de Informação na Universidade Federal do Ceará.
+ Estudante de Sistema de Informação na Universidade Federal do Ceará.</br>
  Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 ## Status ✨
 ![Aaron GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaron-GMM&show_icons=true&theme=tokyonight)
