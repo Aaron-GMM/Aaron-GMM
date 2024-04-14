@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hello, my name is Aaron Gibran 👋<br>About me🧑🏾‍💻<br>Information System Student at the Federal University of Ceará.<br>Passionate about technology, education and changing people's lives through programming. <br>
+Hello, my name is Aaron Gibran 👋 Information System Student at the Federal University of Ceará.<br>Passionate about technology, education and changing people's lives through programming. <br>
 ###
-Olá, Me Chamo Aaron Gibran 👋<br>About-me🧑🏾‍💻<br>Estudante de Sistema de Informação na Universidade Federal do Ceará.<br>Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Olá, Me Chamo Aaron Gibran 👋 Estudante de Sistema de Informação na Universidade Federal do Ceará.<br>Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 
 ## 🌐 Socials:
