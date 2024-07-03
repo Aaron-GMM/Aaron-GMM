@@ -4,8 +4,8 @@ Hello, my name is Aaron Gibran 👋 Information System Student at the Federal Un
 Olá, Me Chamo Aaron Gibran 👋 Estudante de Sistema de Informação na Universidade Federal do Ceará.<br>Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ## 📊 GitHub Stats 🌐 Socials:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-GMM&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <a href = "https://instagram.com/aaron.gm.2"> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]</a> <a href="https://www.linkedin.com/in/aaron-moreira-a7388323a/" > [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-GMM&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💻 Tech Stack:
 #### Back-end💻 && Front-end🌐
