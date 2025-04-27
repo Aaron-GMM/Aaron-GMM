@@ -5,6 +5,7 @@ Olá, Me Chamo Aaron Gibran 👋 Estudante de Sistema de Informação na Univers
 ##### 🌐 Socials:
  <a href="https://www.linkedin.com/in/aaron-moreira-a7388323a/" > [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]</a>
 ## 📊 GitHub Stats:
+![]( 	https://github-readme-stats.vercel.app/api?username=Aaron-GMM&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-GMM&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💻 Tech Stack:
@@ -36,6 +37,7 @@ Front-end🌐
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br>
 <img align="center" alt="Visual_Studio_code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="center" alt="Intellij"  src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
