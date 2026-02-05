@@ -17,6 +17,12 @@ Desenvolvendo soluções com software, automação e dados.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
+## 📊 GitHub Stats
+
+<img width="42%" src="https://github-stats-mu-nine.vercel.app/api?username=Aaron-GMM&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" />
+
+<img width="32%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aaron-GMM&layout=compact&theme=tokyonight" />
+
 ## 💻 Tech Stack
 
 ### 🧠 Advanced
