@@ -38,6 +38,7 @@ Desenvolvendo soluções com software, automação e dados.
 <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white" />
 
@@ -57,8 +58,8 @@ Desenvolvendo soluções com software, automação e dados.
 <img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-000000?style=flat&logo=netlify&logoColor=00C7B7" />
+<img src="https://img.shields.io/badge/GoLand-0f0f0f?&style=flat&logo=goland&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" />
 
 ---
 
