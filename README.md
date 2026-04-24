@@ -18,18 +18,26 @@ Desenvolvendo soluções com software, automação e dados.
 </a>
 
 ## 💻 Tech Stack
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-GMM&size_weight=0.5&count_weight=0.5&layout=compact&theme=apprentice&hide=html,vim%20script" />
+</a>
+-->
+
 
 ### 🧠 Advanced
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 
 ---
 
+
 ### 🚀 Intermediate
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white" />
+
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
@@ -44,7 +52,6 @@ Desenvolvendo soluções com software, automação e dados.
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
 
 ---
 
