@@ -77,6 +77,5 @@
 
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-GMM&theme=tokyonight&hide_border=true"/>
 
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaron-GMM&theme=tokyonight"/>
 
 </div>
