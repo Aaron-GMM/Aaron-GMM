@@ -1,69 +1,82 @@
 <div align="center">
 
-# 💫 About Me
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C5D,100:3282B8&height=200&section=header&text=Aaron%20Gibran&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-**Aaron Gibran** 👋  
-Information System student at the **Federal University of Ceará**  
-Building solutions through software, automation, and data.
-
-<br>
-
-Estudante de **Sistema de Informação** na **Universidade Federal do Ceará**  
-Desenvolvendo soluções com software, automação e dados.
+<!-- Micro animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=3282B8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Go+Focused;Building+Reliable+Systems;Always+Improving" />
 
 ---
-### 🌐 Connect
+
+## Full Stack Developer • Backend-focused (Go)
+
+> Backend-focused developer with full stack experience  
+> Building reliable systems, automation, and scalable solutions.
+
+---
+
+## 🌐 Connect
+
 <a href="https://www.linkedin.com/in/aaron-moreira-a7388323a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:aarongmdev@gmail.com">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
 </a>
 
-## 💻 Tech Stack
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-GMM&size_weight=0.5&count_weight=0.5&layout=compact&theme=apprentice&hide=html,vim%20script" />
-</a>
--->
+---
 
+## ⚡ Primary Stack
 
-### 🧠 Advanced
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+&nbsp;&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+&nbsp;&nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+&nbsp;&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+
+<p><sub>Go • Gin • PostgreSQL • React • Docker</sub></p>
 
 ---
 
+## 🧠 Supporting Stack
 
-### 🚀 Intermediate
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+&nbsp;&nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+&nbsp;&nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+&nbsp;&nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+&nbsp;&nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white" />
-
----
-
-### 🌱 Familiar
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<p><sub>Java • Spring • Python • FastAPI • JavaScript</sub></p>
 
 ---
 
-### 🔧 Tools
-<img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/GoLand-0f0f0f?&style=flat&logo=goland&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" />
+## 🛠 Tools
+
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+&nbsp;&nbsp;
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+&nbsp;&nbsp;
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg"/>
+&nbsp;&nbsp;
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+&nbsp;&nbsp;
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+
+<p><sub>Git • VS Code • GoLand • PyCharm • Figma</sub></p>
 
 ---
 
+## 📊 GitHub
 
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-GMM&theme=tokyonight&hide_border=true"/>
+
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaron-GMM&theme=tokyonight"/>
 
 </div>
