@@ -4,13 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3C5D,100:3282B8&height=200&section=header&text=Aaron%20Gibran&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <!-- Micro animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=3282B8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Go+Focused;Building+Reliable+Systems;Always+Improving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=3282B8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Reliable+Systems;Always+Improving" />
 
 ---
 
-## Full Stack Developer • Backend-focused (Go)
-
-> Backend-focused developer with full stack experience  
+## Full Stack Developer 
+  
 > Building reliable systems, automation, and scalable solutions.
 
 ---
